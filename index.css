@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: wheat;
+
+}
+.main{
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+    
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    float: left;
+    padding: 30px;
+}
+.clear{
+    clear: both;
+}
+.half-width img{
+    width: 100%;
+}
