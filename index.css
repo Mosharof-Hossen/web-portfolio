@@ -73,7 +73,9 @@ section{
     background-position: left 50%;
 }
 .h22{
-    margin-left: 65px;
+    
+    text-align: center;
+    color:teal;
 }
 .single-experience:hover{
     box-shadow: 10px 10px 40px black;
